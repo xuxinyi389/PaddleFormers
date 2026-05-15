@@ -1,0 +1,4 @@
+WARNING  paddlefleet.ops:__init__.py:236 paddlefleet.ops.deep_gemm not supported: paddlefleet.ops.deep_gemm requires GPU compute capability >= 9.0 (Hopper). Current capability: 8.0.
+WARNING  paddlefleet.ops:__init__.py:248 paddlefleet.ops.deep_ep not supported: paddlefleet.ops.deep_ep requires GPU compute capability >= 9.0 (Hopper). Current capability: 8.0.
+WARNING  paddlefleet.ops:__init__.py:258 paddlefleet.ops.sonicmoe not supported: GPU compute capability >= 9.0 required (current 8.0)
+WARNING  paddlefleet.ops:__init__.py:267 paddlefleet.ops.flash_mask not supported: paddlefleet.ops.flash_mask requires GPU compute capability >= 10.0 (Blackwell). Current capability: 8.0.
